@@ -70,6 +70,11 @@ $ git merge labranche
 ```
 
 ```bash
+# liste des branches
+$ git branch
+```
+
+```bash
 # décoller un serveur php pour visualiser le site sur le navigateur
 php -S localhost:8080
 ```
